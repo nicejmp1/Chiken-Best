@@ -38,7 +38,7 @@ browser = webdriver.Chrome(service=service, options=options)
 
 def clean_sub_text(text):
     """sub 문자열을 정리"""
-    return ' '.join(text.replace('\n', ' ').replace('\"', '').split())
+    return text.replace('\n', ' ').replace('\"', '').replace('\'', '').strip()
 
 def get_menu_data(browser, base_url):
     html_source = browser.page_source
