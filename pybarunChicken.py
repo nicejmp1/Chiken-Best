@@ -2,12 +2,16 @@ import requests as req
 from bs4 import BeautifulSoup as bs
 import json
 from datetime import datetime
-.
+import os
+
 
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
 folder_path = "barunChicken"
 filename = f"{folder_path}/barunChicken_{current_date}.json"
+
+# 폴더가 없으면 생성
+os.makedirs(folder_path, exist_ok=True)
 
 def get_menu_data(url):
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'}
