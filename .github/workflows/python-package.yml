@@ -42,19 +42,19 @@ jobs:
     - name: run file
       run: |
         python3 pyatteckChicken.py
-        python3 cheogajipChicken.py
-        python3 chkickenPluse.py
-        python3 dangchiddaengChicken.py
-        python3 dongkiChicken.py
-        python3 gamachiChicken.py
-        python3 hoolalaChicken.py
-        python3 kkanbuChicken.py
-        python3 kkubeurakkoChicken.py
-        python3 kyedongChicken.py
-        python3 mexicanaChicken.py
-        python3 puradakChicken.py
-        python3 ttobongeeChicken.py
-        python3 barunChicken.py
+        python3 pycheogajipChicken.py
+        python3 pychkickenPluse.py
+        python3 pydangchiddaengChicken.py
+        python3 pydongkiChicken.py
+        python3 pygamachiChicken.py
+        python3 pyhoolalaChicken.py
+        python3 pykkanbuChicken.py
+        python3 pykkubeurakkoChicken.py
+        python3 pykyedongChicken.py
+        python3 pymexicanaChicken.py
+        python3 pypuradakChicken.py
+        python3 pyttobongeeChicken.py
+        python3 pybarunChicken.py
         
 
     - name: commits
