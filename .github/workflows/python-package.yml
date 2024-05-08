@@ -42,19 +42,6 @@ jobs:
     - name: run file
       run: |
         python3 atteckChicken.py
-        python3 barunChicken.py
-        python3 cheogajipChicken.py
-        python3 chkickenPluse.py
-        python3 dangchiddaengChicken.py
-        python3 dongkiChicken.py
-        python3 gamachiChicken.py
-        python3 hoolalaChicken.py
-        python3 kkanbuChicken.py
-        python3 kkubeurakkoChicken.py
-        python3 kyedongChicken.py
-        python3 mexicanaChicken.py
-        python3 puradakChicken.py
-        python3 ttobongeeChicken.py
         
 
     - name: commits
@@ -62,19 +49,6 @@ jobs:
         git config --global user.email "a01063363854@gmail.com"
         git config --global user.name "nicejmp1" 
         git add atteckChicken/atteckChicken*.json
-        git add barunChicken/barunChicken*.json
-        git add cheogajipChicken/cheogajipChicken*.json
-        git add chkickenPluse/chkickenPluse*.json
-        git add dangchiddaengChicken/dangchiddaengChicken*.json
-        git add dongkiChicken/dongkiChicken*.json
-        git add gamachiChicken/gamachiChicken*.json
-        git add hoolalaChicken/hoolalaChicken*.json
-        git add kkanbuChicken/kkanbuChicken*.json
-        git add kkubeurakkoChicken/kkubeurakkoChicken*.json
-        git add kyedongChicken/kyedongChicken*.json
-        git add mexicanaChicken/mexicanaChicken*.json
-        git add puradakChicken/puradakChicken*.json
-        git add ttobongeeChicken/ttobongeeChicken*.json
         git commit -m "치킨 수집 완료"
 
     - name: push
