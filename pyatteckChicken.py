@@ -36,6 +36,6 @@ url = "https://m.booking.naver.com/order/bizes/777177/items/5209875?theme=place&
 chart_data = get_menu_data(url)
 
 # 데이터를 JSON 파일로 저장
-with open(filename, "w", encoding='utf-8') as json_file:
-    json.dump(chart_data, json_file, ensure_ascii=False, indent=4)
+with open(filename, "w", encoding='utf-8') as f:
+    json.dump(chart_data, f, ensure_ascii=False, indent=4)
 
