@@ -37,7 +37,7 @@
     },
     {
         "title": "XO양념치킨",
-        "sub": "\"세상에 없던 감칠맛!\"\n일명 미식가의 소스로 불리며, 음식의 가치를 높여주는 고급스러운 풍미와 감칠맛이 특징입니다.",
+        "sub": "세상에 없던 감칠맛! 일명 미식가의 소스로 불리며, 음식의 가치를 높여주는 고급스러운 풍미와 감칠맛이 특징입니다.",
         "money": "18,000원+3,000원",
         "imageURL": "https://www.cheogajip.co.kr/data/file/allmenu/thumb-3034659209_z34bmQZu_362f06a41a4aa42ca677a6da6537f150b3942ab5_280x0.jpg"
     },
@@ -79,13 +79,13 @@
     },
     {
         "title": "100% 청양산 고추치킨",
-        "sub": "\"대한민국 청양고추의 맛있게 매운맛을 보여주마\"\n100% 청양산 햇고추만을 사용하여 깊고 진한 매운맛이 특징",
+        "sub": "대한민국 청양고추의 맛있게 매운맛을 보여주마 100% 청양산 햇고추만을 사용하여 깊고 진한 매운맛이 특징",
         "money": "18,000원+3,000원",
         "imageURL": "https://www.cheogajip.co.kr/data/file/allmenu/thumb-3743929420_tSvCpd1F_e4afa2f0b03cd9228e795263f5cd70ceb3ced8f9_280x0.jpg"
     },
     {
         "title": "트러플 슈프림 양념치킨",
-        "sub": "세계3대진미 '트러플'과 '슈프림양념치킨'의 만남!",
+        "sub": "세계3대진미 트러플과 슈프림양념치킨의 만남!",
         "money": "18,000원+4,000원",
         "imageURL": "https://www.cheogajip.co.kr/data/file/allmenu/thumb-2109327413_7UoQ5MZh_52aa908ff16e5953e32e77d84adb98bbc1e736dd_280x0.jpg"
     },
@@ -205,7 +205,7 @@
     },
     {
         "title": "슈프림골드치즈볼",
-        "sub": "입안 가득 터지는 '모짜렐라 & 고다치즈'! 여기에 '슈프림 골드치즈'를 한번더!",
+        "sub": "입안 가득 터지는 모짜렐라 & 고다치즈! 여기에 슈프림 골드치즈를 한번더!",
         "money": "4,000원(5개)",
         "imageURL": "https://www.cheogajip.co.kr/data/file/allmenu/thumb-3529822605_57wCeNdO_3aa6d7e26a2f7a068b3178c3019528e78f49e6cd_280x0.jpg"
     },
