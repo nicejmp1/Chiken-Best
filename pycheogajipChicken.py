@@ -18,7 +18,8 @@ urls = [
 
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
-filename = f"cheogajip_chicken{current_date}.json"
+folder_path = "cheogajipChicken"
+filename = f"{folder_path}/cheogajipChicken{current_date}.json"
 base_url = "https://www.cheogajip.co.kr"
 
 # 웹드라이버 설정
