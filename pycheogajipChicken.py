@@ -36,6 +36,10 @@ service = ChromeService(executable_path=ChromeDriverManager().install())
 browser = webdriver.Chrome(service=service, options=options)
 
 
+def clean_sub_text(text):
+    """sub 문자열을 정리"""
+    return ' '.join(text.replace('\n', ' ').replace('\"', '').split())
+
 def get_menu_data(browser, base_url):
     html_source = browser.page_source
     soup = BeautifulSoup(html_source, 'html.parser')
@@ -52,7 +56,7 @@ def get_menu_data(browser, base_url):
             title = 'No Title'
 
         sub_element = item.select_one('p')
-        sub = sub_element.text.strip() if sub_element else 'No Sub'
+        sub = clean_sub_text(sub_element.text.strip()) if sub_element else 'No Sub'
 
         money_element = item.select_one('.menuprice')
         money = money_element.get_text(strip=True) if money_element else 'No Price'
@@ -80,7 +84,7 @@ for url in urls:
     )
     menu_data = get_menu_data(browser, base_url)
     all_menu_data.extend(menu_data)
-    time.sleep(2)  # 페이지 로딩을 위해 대기 시간 추가
+    time.sleep(2)
 
 # 데이터를 JSON 파일로 저장
 with open(filename, 'w', encoding='utf-8') as f:
