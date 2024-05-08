@@ -2,7 +2,7 @@ import requests as req
 from bs4 import BeautifulSoup as bs
 import json
 from datetime import datetime
-
+.
 
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
