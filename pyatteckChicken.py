@@ -6,6 +6,7 @@ from datetime import datetime
 
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
+forlder_path = "atteckChicken"
 filename = f"{folder_path}/atteckChicken_{current_date}.json"
 
 def get_menu_data(url):
