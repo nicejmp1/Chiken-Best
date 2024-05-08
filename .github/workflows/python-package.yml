@@ -45,16 +45,16 @@ jobs:
         python3 pycheogajipChicken.py
         python3 pybarunChicken.py
         python3 pychkickenPluse.py
-        python3 pydangchiddaengChicken.py
-        python3 pydongkiChicken.py
-        python3 pygamachiChicken.py
-        python3 pyhoolalaChicken.py
-        python3 pykkanbuChicken.py
-        python3 pykkubeurakkoChicken.py
-        python3 pykyedongChicken.py
-        python3 pymexicanaChicken.py
-        python3 pypuradakChicken.py
-        python3 pyttobongeeChicken.py
+        # python3 pydangchiddaengChicken.py
+        # python3 pydongkiChicken.py
+        # python3 pygamachiChicken.py
+        # python3 pyhoolalaChicken.py
+        # python3 pykkanbuChicken.py
+        # python3 pykkubeurakkoChicken.py
+        # python3 pykyedongChicken.py
+        # python3 pymexicanaChicken.py
+        # python3 pypuradakChicken.py
+        # python3 pyttobongeeChicken.py
         
         
 
@@ -66,16 +66,16 @@ jobs:
         git add cheogajipChicken/cheogajipChicken*.json
         git add barunChicken/barunChicken*.json
         git add chkickenPluse/chkickenPluse*.json
-        git add dangchiddaengChicken/dangchiddaengChicken*.json
-        git add dongkiChicken/dongkiChicken*.json
-        git add gamachiChicken/gamachiChicken*.json
-        git add hoolalaChicken/hoolalaChicken*.json
-        git add kkanbuChicken/kkanbuChicken*.json
-        git add kkubeurakkoChicken/kkubeurakkoChicken*.json
-        git add kyedongChicken/kyedongChicken*.json
-        git add mexicanaChicken/mexicanaChicken*.json
-        git add puradakChicken/puradakChicken*.json
-        git add ttobongeeChicken/ttobongeeChicken*.json
+        # git add dangchiddaengChicken/dangchiddaengChicken*.json
+        # git add dongkiChicken/dongkiChicken*.json
+        # git add gamachiChicken/gamachiChicken*.json
+        # git add hoolalaChicken/hoolalaChicken*.json
+        # git add kkanbuChicken/kkanbuChicken*.json
+        # git add kkubeurakkoChicken/kkubeurakkoChicken*.json
+        # git add kyedongChicken/kyedongChicken*.json
+        # git add mexicanaChicken/mexicanaChicken*.json
+        # git add puradakChicken/puradakChicken*.json
+        # git add ttobongeeChicken/ttobongeeChicken*.json
         
         git commit -m "치킨 수집 완료"
 
