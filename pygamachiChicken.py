@@ -45,7 +45,9 @@ for tab_url in tab_urls:
 # 데이터 추출 및 저장
 all_tabs_data.extend(menu_data)
 
+# JSON 파일로 저장
 with open(filename, "w", encoding='utf-8') as f:
-    json.dump(chart_data, f, ensure_ascii=False, indent=4)
+    json.dump(all_tabs_data, f, ensure_ascii=False, indent=4)
+
 
 print(f"메뉴 데이터를 {filename} 파일에 저장했습니다.")
