@@ -38,6 +38,7 @@ jobs:
         pip install lxml
         pip install selenium
         pip install webdriver_manager
+        pip install -r requirements.txt
       
     - name: run file
       run: |
