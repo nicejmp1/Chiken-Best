@@ -81,7 +81,6 @@ jobs:
 
     - name: push
       uses: ad-m/github-push-action@master
-      if: steps.changes.outputs.changed == 'true'
       with:
         branch: "main"
         github_token: $
