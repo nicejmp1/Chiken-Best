@@ -23,6 +23,10 @@ base_url = "http://www.hoolala.co.kr"
 
 # 웹드라이버 설정
 options = ChromeOptions()
+options.add_argument('--headless')  # GUI 없이 헤드리스 모드로 실행
+options.add_argument('--no-sandbox')
+options.add_argument('--disable-gpu')
+options.add_argument('--disable-dev-shm-usage')
 service = ChromeService(executable_path=ChromeDriverManager().install())
 browser = webdriver.Chrome(service=service, options=options)
 
