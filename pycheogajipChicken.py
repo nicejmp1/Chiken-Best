@@ -35,6 +35,8 @@ options.add_argument('--disable-dev-shm-usage')
 service = ChromeService(executable_path=ChromeDriverManager().install())
 browser = webdriver.Chrome(service=service, options=options)
 
+# 암시적 대기 시간 추가
+browser.implicitly_wait(10)
 
 def clean_sub_text(text):
     """sub 문자열을 정리"""
@@ -79,12 +81,16 @@ all_menu_data = []
 
 for url in urls:
     browser.get(url)
-    WebDriverWait(browser, 10).until(
-        EC.presence_of_element_located((By.ID, "bo_gall"))
-    )
-    menu_data = get_menu_data(browser, base_url)
-    all_menu_data.extend(menu_data)
-    time.sleep(2)
+    try:
+        # 대기 시간 증가
+        WebDriverWait(browser, 20).until(
+            EC.presence_of_element_located((By.ID, "bo_gall"))
+        )
+        menu_data = get_menu_data(browser, base_url)
+        all_menu_data.extend(menu_data)
+        time.sleep(2)  # 간단한 대기 시간 추가
+    except Exception as e:
+        print(f"Error occurred while fetching data from {url}: {e}")
 
 # 데이터를 JSON 파일로 저장
 with open(filename, 'w', encoding='utf-8') as f:
