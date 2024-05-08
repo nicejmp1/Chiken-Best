@@ -1,16 +1,21 @@
+import os
 import requests as req
 from bs4 import BeautifulSoup as bs
 import json
 from datetime import datetime
-
 
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
 folder_path = "atteckChicken"
 filename = f"{folder_path}/atteckChicken_{current_date}.json"
 
+# 폴더가 존재하지 않을 경우 생성
+os.makedirs(folder_path, exist_ok=True)
+
 def get_menu_data(url):
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'}
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+    }
     res = req.get(url, headers=headers)
     soup = bs(res.text, "lxml")
     items = soup.select(".order_list_item")  # 메뉴 아이템을 포함하는 전체 컨테이너 선택
@@ -40,3 +45,4 @@ chart_data = get_menu_data(url)
 with open(filename, "w", encoding='utf-8') as f:
     json.dump(chart_data, f, ensure_ascii=False, indent=4)
 
+print(f"메뉴 데이터를 {filename} 파일에 저장했습니다.")
