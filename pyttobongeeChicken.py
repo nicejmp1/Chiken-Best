@@ -32,7 +32,7 @@ def get_menu_data(url):
     return chart_data
 
 # URL 정의 및 데이터 추출
-url = "https://m.booking.naver.com/order/bizes/765494/items/4635062?theme=place&entry=pll&area=pll"
+url = "https://m.booking.naver.com/order/bizes/543233/items/3981408?theme=place&entry=pll&area=pll"
 chart_data = get_menu_data(url)
 
 # 데이터를 JSON 파일로 저장
