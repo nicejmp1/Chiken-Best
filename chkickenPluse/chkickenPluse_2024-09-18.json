@@ -1,0 +1,362 @@
+[
+    {
+        "Menu": "고르곤졸라 맛있는치킨 주세요",
+        "Sub": "바삭, 찍먹, 촉촉, 3가지 매력을 즐기실 수 있도록, '할리갈릭소스'는 별도 제공 드리며 '화이트갈릭고르곤졸라소스'는 치킨 하단에 뿌려져있습니다.",
+        "Price": "20,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_131/1725582610021uQRJM_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "제로슈가양념치킨 있을슈가없당",
+        "Sub": "설탕은 빼고 칼로리는 23% 낮추고 새로운 양념치킨의 등장",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_139/17255826080077tbR8_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "두마리같은 한마리치킨주세요",
+        "Sub": "두마리같은 한마리로 푸짐하게 모짜렐라 치즈가 들어간 치즈크러스트닭다리까지, 가성비를 넘어 가심비 갑 사장님 여기 두마리같은한마리치킨 주세요",
+        "Price": "23,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_86/1725582608756Q8Sa0_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "두마리세트(뼈+뼈)",
+        "Sub": "정량, 정품, 정직 진짜 두 마리입니다.",
+        "Price": "27,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_247/1725582610589HE7nH_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "두마리세트(뼈+순살)",
+        "Sub": "정량, 정품, 정직 진짜 두 마리입니다.",
+        "Price": "28,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_136/1725582601664YrKXS_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "두마리세트(순살+순살)",
+        "Sub": "정량, 정품, 정직 진짜 두 마리입니다.",
+        "Price": "29,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_87/17255826111568G6pq_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "치킨(뼈)＋떡볶이세트",
+        "Sub": "치킨도 맛있는데 떡볶이 까지 치플이 자랑하는 단짝 궁합 세트",
+        "Price": "22,800원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_296/1725582609363TKbz1_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "치킨(순살)＋떡볶이세트",
+        "Sub": "치킨도 맛있는데 떡볶이 까지 치플이 자랑하는 단짝 궁합 세트",
+        "Price": "23,800원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_70/1725582622551BQni4_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "치킨(뼈) + 타코야끼세트",
+        "Sub": "치플이 자랑하는 치킨에 타코야끼 조합까지",
+        "Price": "22,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_269/1725582627906eM79U_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "치킨(순살) + 타코야끼세트",
+        "Sub": "치플이 자랑하는 치킨에 타코야끼 조합까지",
+        "Price": "23,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_241/17255826287063tzLm_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "[바삭+불맛] 후라이드(뼈)+숯불치킨 두마리세트",
+        "Sub": "바삭한 치킨과 불맛 가득 숯불치킨 두가지 맛이 고민된다면 둘 다",
+        "Price": "31,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_189/1725582612202WkCnJ_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "[바삭+불맛] 후라이드(순살)+숯불치킨 두마리세트",
+        "Sub": "바삭한 치킨과 불맛 가득 숯불치킨 두가지 맛이 고민된다면 둘 다",
+        "Price": "32,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_53/1725582603074x5uVT_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "치킨대전 플래터",
+        "Sub": "치킨대전 우승작만 모았다. 최대 3가지 선택 / 2가지 선택 21,900원, 3가지 선택 31,800원",
+        "Price": "21,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_85/1725582603776PVixB_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "치그니처플래터",
+        "Sub": "실패 없는 선택. 치플 대표메뉴 총 집합 크리미어니언치킨, 마늘스태미나치킨, 핫쵸킹",
+        "Price": "28,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_71/1725582619321uRlxV_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "베스트플래터",
+        "Sub": "실패 없는 선택. 치플 베스트메뉴 총 집합 극장판치킨, 양념치킨, 눈맞은치킨",
+        "Price": "28,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_87/1725582619817zWiUd_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "반반치킨(뼈)",
+        "Sub": "먹고싶은 맛 두~개를 한 마리로 즐기는 인기 반반치킨",
+        "Price": "16,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_127/1725582614067EazlL_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "반반치킨(순살)",
+        "Sub": "먹고싶은 맛 두~개를 한 마리로 즐기는 인기 반반치킨",
+        "Price": "17,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_167/1725582623054sFEip_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "바삭담백한 후라이드",
+        "Sub": "바삭하고 담백하게 즐기는 후라이드",
+        "Price": "16,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_83/1725582623610yPwb7_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "양념치킨",
+        "Sub": "달달한 치플 특제 양념에 버무려 남녀노소 모두가 좋아하는 맛",
+        "Price": "17,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_229/1725582630453DVH8V_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "크리스피후라이드",
+        "Sub": "바삭함과 촉촉함이 살아있는 겉바속촉 크리스피",
+        "Price": "17,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_97/17255826249903OFrQ_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "간장치킨",
+        "Sub": "[업그레이드] 숙성간장의 깊은 맛과 조청의 달콤함으로 더욱 업그레이드된 누구나 좋아하는 간장치킨",
+        "Price": "17,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_255/17255826260924LARO_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "핫쵸킹",
+        "Sub": "[치플 시그니쳐] 맛있게 맵다, 달콤하게 맵다. 중독성 맵,단을 즐기세요",
+        "Price": "17,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_30/1725582626551GMqbF_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "프라임핫쵸킹",
+        "Sub": "치플의 시그니쳐 핫쵸킹이 더 맛있어졌다 매콤단짠 핫쵸킹에 풍미 가득한 화이트프라임소스로 풍부한 맛과 부드러움까지 더한 프라임핫쵸킹",
+        "Price": "18,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_140/1725582627041GircL_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "눈맞은치킨",
+        "Sub": "[업그레이드] 더욱 맛있게 업그레이드 된 치즈풍미 가득한 황금 시즈닝이 한 겨울의 눈처럼 소복하게",
+        "Price": "18,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_216/1725582615534gc1Xt_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "강정치킨",
+        "Sub": "달달하고 바삭한 마성의 맛 부담없이 즐기는 강정치킨",
+        "Price": "18,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_243/1725582618326McPtk_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "마늘스태미나치킨",
+        "Sub": "[업그레이드] 한국인이 사랑하는 마늘소스에 바삭한 마늘칩까지",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_201/1725582616090UA4Iw_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "크리미어니언치킨",
+        "Sub": "[치플 시그니쳐] 신선한 양파와 새콤달콤 부드러운 크리미어니언 소스의 환상궁합",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_128/1725582616606JX37x_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "극장판치킨(고추치즈편)",
+        "Sub": "[치플 시그니쳐]매콤 청양고추와 짭짤 체다치즈의 영화 같은 만남, 황금조연 나쵸까지. 킬링간식용으로 제격입니다.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_213/1725582615005VvqqJ_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "포테이토닥토닭",
+        "Sub": "[치킨대전] '바삭함 끝판왕' 치킨대전 최종 우승작. 감자로 치킨을 감싸 튀겼기에 바삭함으로 비교불가 메뉴",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_291/1725582617292RDN9r_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "조선레드치킨",
+        "Sub": "[치킨대전] 한국을 대표하는 두가지 장으로 맛을 냈다. 한국식 양념치킨의 대표작을 즐기세요.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_83/1725582617757C7SGV_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "아빠의제주깜슐랭",
+        "Sub": "[치킨대전] 제주도를 치킨에 담았다. 먹물로 더 바삭한 치킨을 상큼달콤한 마늘유자소스와 함께 즐기세요.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_142/1725582629283TqOo1_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "혼치킨",
+        "Sub": "치킨 맛있게 혼자 즐긴다.",
+        "Price": "10,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_168/1725582607479CYEyV_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "[진짜숯불] 소금구이 숯불치킨",
+        "Sub": "부드러운 닭다리살을 숯불로 구워 불 맛 가득한 소금구이 숯불치킨",
+        "Price": "20,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_28/1725582605167OjKTm_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "[매콤불맛] 양념구이 숯불치킨",
+        "Sub": "숯불로 구워 불 맛 가득 매콤한 특제 양념으로 맛을 낸 인기메뉴",
+        "Price": "21,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_126/1725582613472cgJnu_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "[리얼숯불] 반반구이 숯불치킨",
+        "Sub": "소금구이냐 양념구이냐 두가지 맛이 고민될 땐 한번에",
+        "Price": "22,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_271/172558261292702ngQ_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "[불맛작렬] 숯불치킨 두마리 세트",
+        "Sub": "소금구이냐 양념구이냐 두가지 맛이 고민될 땐 한번에",
+        "Price": "34,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_189/1725582612202WkCnJ_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "호로록떡복이",
+        "Sub": "치플의 자랑, 치킨과 가장 잘 맞는 치플 호로록 국물떡볶이 (매운맛, 아주 매운맛으로 변경 가능)",
+        "Price": "5,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_81/17255826065193HFph_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "로제떡볶이",
+        "Sub": "K로제를 가득 담은 로제떡볶이, 치킨과 함께하면 가장 맛있습니다.",
+        "Price": "7,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_239/1725582624149pGD1q_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "까르보떡볶이",
+        "Sub": "크리미한 소스가 고소한 까르보떡볶이, 치킨과 함께하면 가장 맛있습니다.",
+        "Price": "6,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_57/1725582607052CCv9b_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "치즈폭탄떡볶이",
+        "Sub": "모짜렐라 치즈 100g이 들어간 치즈 폭탄떡볶이",
+        "Price": "7,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_241/1725582618840DgOkk_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "떡볶이 2~3 인",
+        "Sub": "호로록떡볶이 여럿이서 즐기자!",
+        "Price": "11,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_81/17255826065193HFph_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "（KING푸짐）호로록닭볶이2~4인용",
+        "Sub": "[찜닭X떡볶이] 100% 닭다리살을 사용, 얼큰한 닭도리탕의 맛과 달콤한 떡볶이가 만난 호로록 닭볶이",
+        "Price": "24,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_177/1725582605723BrwrD_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "（KING푸짐）로제닭볶이2~4인용",
+        "Sub": "[찜닭X떡볶이] 100% 닭다리살을 사용, K로제소스로 맛있게 만든 치플 시그니쳐 로제 닭볶이",
+        "Price": "24,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_196/1725582624549M5gjn_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "타코야끼",
+        "Sub": "단짠단짠의 정석 다양한 맛으로 골라서 즐기는 타코야끼(10pcs)",
+        "Price": "6,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_30/1725582621304PFaHM_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "똥집튀김",
+        "Sub": "바삭한 맛으로 즐기는 똥집튀김",
+        "Price": "7,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_294/172558261464467KeI_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "치즈스틱(3개)",
+        "Sub": "모짜렐라가 쭈욱 ~~ 늘어나는 치즈스틱",
+        "Price": "2,500원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_206/1725582620923lj9n9_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "김말이(3개)",
+        "Sub": "",
+        "Price": "2,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_297/1725582622226aR5kd_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "미니핫도그(3개)",
+        "Sub": "",
+        "Price": "2,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_211/1725582621897c4m18_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "야끼만두(3개)",
+        "Sub": "",
+        "Price": "2,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_271/1725582627606tVtaJ_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "사각어묵튀김(12개)",
+        "Sub": "",
+        "Price": "2,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_292/1725582621625fRHwB_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "고구마튀김(3개)",
+        "Sub": "",
+        "Price": "2,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_270/1725582630190B4wlG_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "황금공룡알(5개)",
+        "Sub": "",
+        "Price": "3,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_297/1725582601360cDR2H_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "오징어튀김(2개)",
+        "Sub": "",
+        "Price": "3,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_289/1725582601113Jfniu_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "야채튀김(2개)",
+        "Sub": "",
+        "Price": "2,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_246/1725582600827GYQVL_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "케이준감자튀김",
+        "Sub": "",
+        "Price": "3,500원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_74/1725582629883dHyQ6_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "고추튀김(2개)",
+        "Sub": "",
+        "Price": "4,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_127/1725582604851xj3Uj_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "밀크치즈볼",
+        "Sub": "달콤~함이 가득한 프리미엄 밀크치즈볼",
+        "Price": "5,500원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_78/1725582604640fhLEK_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "눈맞은감자튀김",
+        "Sub": "",
+        "Price": "5,500원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_133/17255826004903FhJO_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "콘튀김",
+        "Sub": "",
+        "Price": "5,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_34/1725582620492XDisl_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "모둠튀김",
+        "Sub": "",
+        "Price": "6,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240906_225/1725582604359wCEi1_JPEG/image.jpg?type=f220_220_60_sharpen"
+    }
+]
